@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cameron! <br/><a href="https://github.com/CameronJohnson-IT">IT Professional</a>
+<h1>Hi there, my name is Cameron! <br/><a href="https://github.com/CameronJohnson-IT">IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
