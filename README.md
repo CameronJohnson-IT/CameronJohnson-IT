@@ -14,4 +14,4 @@
 
 <img align="left" alt="CameronJohnson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
-- <b>LinkedIn</b>: https://linkedin.com/in/cameronjohnson
+- <b>LinkedIn</b>: [https://linkedin.com/in/cameronjohnson](https://www.linkedin.com/in/cameron-johnson-313466233/)
