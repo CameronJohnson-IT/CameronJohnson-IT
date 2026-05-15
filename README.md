@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CameronJohnson-IT/configure-ad)
+  - [Azure Networking and Protocol Analysis Lab](https://github.com/CameronJohnson-IT/configure-ad)
 
 
 <h2> 🤳 Connect with me:</h2>
