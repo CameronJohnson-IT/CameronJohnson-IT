@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Cameron an <br/><a href="https://www.linkedin.com/in/cameron-johnson-313466233/">Technical Support Specialist</a>
+<h1>Hey there, I'm Cameron, an <br/><a href="https://www.linkedin.com/in/cameron-johnson-313466233/">Technical Support Specialist</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
