@@ -6,6 +6,11 @@
   - [Azure Networking and Protocol Analysis Lab](https://github.com/CameronJohnson-IT/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CameronJohnson-IT/configure-ad)
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/CameronJohnson-IT/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/CameronJohnson-IT/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/CameronJohnson-IT/ticket-lifecycle)
+
 
 <h2> 🤳 Connect with me:</h2>
 
